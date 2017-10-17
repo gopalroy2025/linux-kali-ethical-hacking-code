@@ -1,4 +1,4 @@
-+# Wi-Fi Cracking
++# Wi-Fi Cracking -hack WPA/WPA2 Wi-Fi With Kali Linux & Aircrack
 +
 +Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat. 
 +
@@ -221,8 +221,3 @@
 +
 +# crack with naive-hashcat
 +HASH_FILE=hackme.hccapx POT_FILE=hackme.pot HASH_TYPE=2500 ./naive-hashcat.sh
-+```
-+
-+## Attribution
-+
-+Much of the information presented here was gleaned from [Lewis Encarnacion's awesome tutorial](https://lewiscomputerhowto.blogspot.com/2014/06/how-to-hack-wpawpa2-wi-fi-with-kali.html). Thanks to the awesome authors and maintainers who work on Aircrack-ng and Hashcat.
